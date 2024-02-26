@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ptangi
-- 🌱 I’m currently learning - Validating code
+- 🌱 I’m currently learning - components of code validation
 - 📫 How to reach me - Slack
 - 😄 Pronouns: she/her
 
